@@ -42,7 +42,4 @@
 
 ---
 
-🧼 **Post-Exploitation Note:**  
-Clean up `nc.exe`, the GodPotato binary, and any reverse shell artifacts.
-
 > ⚠️ This walkthrough is for educational purposes only.
