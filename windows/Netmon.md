@@ -32,7 +32,7 @@
   Ctrl + Shift + I → Storage tab
   ```
 
-![PRTG Cookie Storage](Netmon_cookie.png)
+![PRTG Cookie Storage](.assets/Netmon_cookie.png)
 
 - Copied the session cookies listed under the domain `10.129.99.25`.
 
