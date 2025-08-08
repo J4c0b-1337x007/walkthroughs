@@ -6,6 +6,10 @@
 
 This repository contains **publicly shareable walkthroughs** including machines from **OffSec** that are permitted to be published, and currently active **HTB** machines.
 
+All the machines that I do publish are divided into two folders:  
+- `linux`  
+- `windows`
+
 If you have any questions or want tips on OSCP or OffSec machines, feel free to reach out to me on LinkedIn:  
 🔗 [Yehonatan Sion - LinkedIn](https://www.linkedin.com/in/yehonatan-sion-29213b334)  
 or join the OffSec community via this link:  
