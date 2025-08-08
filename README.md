@@ -6,7 +6,9 @@
 
 This repository contains **publicly shareable walkthroughs** including machines from **OffSec** that are permitted to be published, and currently active **HTB** machines.
 
-If you have any questions or want tips on OSCP or OffSec machines, feel free to reach out to me on LinkedIn or join the OffSec community via this link:  
+If you have any questions or want tips on OSCP or OffSec machines, feel free to reach out to me on LinkedIn:  
+🔗 [Yehonatan Sion - LinkedIn](https://www.linkedin.com/in/yehonatansion/)  
+or join the OffSec community via this link:  
 🔗 [OffSec Community](https://www.offensive-security.com/community/)
 
 I promise to respond as quickly as possible! ⚡
